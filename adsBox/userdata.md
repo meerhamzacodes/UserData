@@ -10,4 +10,4 @@ Use the following format for convenience:
 After this, I will search for all the emails which contain your payment email and delete all of those emails.
 
 **NOTE:**  
-(Your Emails will automatically be deleted within 90 days. Send this request for deletion ONLY if you want the data to be deleted immediately)
+(Your Emails will automatically be deleted within 90 days. Send this request for deletion ONLY if you want the data to be deleted immediately OR you want to delete your account)
