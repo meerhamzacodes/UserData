@@ -5,7 +5,7 @@
 ### Format
 Use the following format for convenience:
 + **Subject:** "Requesting Deletion of Data - adsBox"
-+ **Body:** "Hey I want you to delete the data related to my email that I gave you for withdrawal which is: <Your_Payment_Email>"
++ **Body:** "Hey I want you to delete my account and all the related data that I gave you for withdrawal which is: <Your_Payment_Email>"
 
 After this, I will search for all the emails which contain your payment email and delete all of those emails.
 
